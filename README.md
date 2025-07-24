@@ -1,16 +1,30 @@
-## Hi there 👋
+# Perfume Shop 🧴🌸
 
-<!--
-**M3o0t/m3o0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple Vue.js project for a perfume shop with product listing, product details, and shopping cart.
 
-Here are some ideas to get you started:
+## 🚀 Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Live Preview](https://yourusername.github.io/perfume/)
+
+
+## 🛠️ Features
+
+- Vue Router for page navigation
+- Shopping Cart with reactive state
+- Product Details Page
+- Responsive Design
+
+## 🧑‍💻 Tech Stack
+
+- Vue 3
+- Vue Router
+- CSS 
+- Pinia (for state management)
+
+## 📦 Installation
+
+bash
+git clone https://github.com/m3o0t/perfume.git
+cd perfume
+npm install
+npm run dev
